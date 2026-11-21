@@ -7,4 +7,4 @@
 Выполни эту команду в терминале на свежеустановленной системе:
 
 ```bash
-curl -sL [https://raw.githubusercontent.com/ТВОЙ_НИК/ИМЯ_РЕПО/main/install.sh](https://raw.githubusercontent.com/ТВОЙ_НИК/ИМЯ_РЕПО/main/install.sh) | bash
+sudo pacman -Syu intellij-idea-community-edition chromium thonny obs-studio discord telegram-desktop
